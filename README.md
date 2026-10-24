@@ -1,11 +1,3 @@
----
-
-# Realtor-CNN: US Real Estate Neural Network & PCA Project
-
-A short README for your project repository based on your Colab implementation:
-
----
-
 ## Overview
 
 This repository contains an end-to-end machine learning and deep learning pipeline built in Python/PyTorch to analyze the **USA Real Estate Dataset** (over 2.2 million records). The project implements data preprocessing, Principal Component Analysis (PCA) for dimensionality reduction, target price classification, and a PyTorch feedforward classification neural network.
